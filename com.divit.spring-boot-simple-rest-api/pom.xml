@@ -49,4 +49,8 @@
 		</plugins>
 		<finalName>spring-boot-divit</finalName>
 	</build>
+	<properties>
+		<sonar.organization>geagege</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 </project>
